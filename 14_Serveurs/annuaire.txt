@@ -1,3 +1,0 @@
-paul:05xxxxxxx
-pierre:06xxxxxxx
-david:07xxxxxxxxx
